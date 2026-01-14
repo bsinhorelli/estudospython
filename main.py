@@ -1,0 +1,1 @@
+print("Estudos Python iniciados 🚀")
